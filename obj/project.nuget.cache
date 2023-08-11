@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/eXVOd9rKzQZ6iPzKPXjP8kznlOMl6zrLv8130u6cJtP6Gbiie220o9p3oYMi97ov1SYM0CvQ9zw01ZbG5RUhw==",
+  "success": true,
+  "projectFilePath": "C:\\kirti\\final\\DemoConsoleApp\\DemoConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umang\\.nuget\\packages\\extensionexample\\1.0.19\\extensionexample.1.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

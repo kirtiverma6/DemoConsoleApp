@@ -1,0 +1,17 @@
+C:\kirti\final\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.exe
+C:\kirti\final\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.deps.json
+C:\kirti\final\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.runtimeconfig.json
+C:\kirti\final\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.dll
+C:\kirti\final\DemoConsoleApp\bin\Debug\net6.0\DemoConsoleApp.pdb
+C:\kirti\final\DemoConsoleApp\bin\Debug\net6.0\ExtensionExample.dll
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.csproj.AssemblyReference.cache
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.AssemblyInfoInputs.cache
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.AssemblyInfo.cs
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.csproj.CoreCompileInputs.cache
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.csproj.CopyComplete
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.dll
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\refint\DemoConsoleApp.dll
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.pdb
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\DemoConsoleApp.genruntimeconfig.cache
+C:\kirti\final\DemoConsoleApp\obj\Debug\net6.0\ref\DemoConsoleApp.dll

@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ExtensionExample/1.0.19": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/ExtensionExample.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/ExtensionExample.dll": {
+            "related": ".runtimeconfig.json"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtensionExample/1.0.19": {
+      "sha512": "HGzQBlAFhMRdWcMnfkN+3HsWk3EQCANNHDLR8qJTFj1NXzF+8wZ9A0lHfXLIb9PQz1E6MAEigmP58GOeHffNig==",
+      "type": "package",
+      "path": "extensionexample/1.0.19",
+      "files": [
+        ".nupkg.metadata",
+        "extensionexample.1.0.19.nupkg.sha512",
+        "extensionexample.nuspec",
+        "lib/net6.0/ExtensionExample.dll",
+        "lib/net6.0/ExtensionExample.runtimeconfig.json"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ExtensionExample >= 1.0.19"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\umang\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\kirti\\final\\DemoConsoleApp\\DemoConsoleApp.csproj",
+      "projectName": "DemoConsoleApp",
+      "projectPath": "C:\\kirti\\final\\DemoConsoleApp\\DemoConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\umang\\.nuget\\packages\\",
+      "outputPath": "C:\\kirti\\final\\DemoConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\umang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://pkgs.dev.azure.com/kirtiv44670777/Kirti-demo/_packaging/AzureNugetFeed/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "ExtensionExample": {
+            "target": "Package",
+            "version": "[1.0.19, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DemoConsoleApp/1.0.0": {
+        "dependencies": {
+          "ExtensionExample": "1.0.19"
+        },
+        "runtime": {
+          "DemoConsoleApp.dll": {}
+        }
+      },
+      "ExtensionExample/1.0.19": {
+        "runtime": {
+          "lib/net6.0/ExtensionExample.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionExample/1.0.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HGzQBlAFhMRdWcMnfkN+3HsWk3EQCANNHDLR8qJTFj1NXzF+8wZ9A0lHfXLIb9PQz1E6MAEigmP58GOeHffNig==",
+      "path": "extensionexample/1.0.19",
+      "hashPath": "extensionexample.1.0.19.nupkg.sha512"
+    }
+  }
+}
